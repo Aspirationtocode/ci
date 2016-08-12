@@ -9,16 +9,6 @@
     "test": "eslint .",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/andre487/infra-example.git"
-  },
-  "author": "Andrey Prokopyuk <andrey.prokopyuk@gmail.com> (http://andre.life)",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/andre487/infra-example/issues"
-  },
-  "homepage": "https://github.com/andre487/infra-example#readme",
   "dependencies": {
     "cool-ascii-faces": "^1.3.4",
     "ejs": "^2.4.2",
