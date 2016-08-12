@@ -1,6 +1,6 @@
 # infra-example
 
-[![Build Status](https://travis-ci.org/Aspirationtocode/ci_example.png?branch=master)](https://travis-ci.org/shapeshed/express_example)
+[![Build Status](https://travis-ci.org/Aspirationtocode/ci.svg?branch=master)](https://travis-ci.org/shapeshed/express_example)
 [![bitHound Overall Score](https://www.bithound.io/github/andre487/infra-example/badges/score.svg)](https://www.bithound.io/github/andre487/infra-example)
 
 Пример проекта с настроенной инфраструктурой. 
