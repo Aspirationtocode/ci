@@ -17,7 +17,6 @@
 * `host=secret-coast-74205.herokuapp.com/` — HTTP Host
 * `request_id=c9bf744b-48a2-4ed0-9bbf-56d846887765` — Request id
 * `fwd="188.123.231.83"` — X-Forwarded-For Header
-* `dyno=web.1` — имя контейнера, который обслуживает запрос
 * `connect=1ms` — connection time
 * `service=3ms` — time to transfer data
 * `status=200` — http request status
