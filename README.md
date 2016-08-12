@@ -5,27 +5,23 @@
 
 Приложение доступно здесь: http://secret-coast-74205.herokuapp.com/
 
-### Логи ###
-Heroku может передавать логи:
-* приложения: На картинке те, что с app[web.1]. Показываются `console.timeEnd('render')`, `Node app is running on port 13542` и другие.
-* системные: те что с `heroku[router]`.
- * `at=info` — тип сообщения
- * `method=GET` — HTTP метод
- * `path="/"` — HTTP путь
- * `host=thawing-wave-71324.herokuapp.com` — HTTP заголовок хост
- * `request_id=463f9314-a323-4f93-8a90-1f61e89fecf3` — id запроса
- * `fwd="109.252.105.212"` — заголовок X-Forwarded-For
- * `dyno=web.1` — имя контейнера, который обслуживает запрос
- * `connect=1ms` — время, затраченное за соединение с бэкендом
- * `service=5ms` — время, затраченное на передачу данных между бэкендом и клиентом
- * `status=200` — Код http ответа
- * `bytes=407` — Число переданных байтов с бэкенда на клиент
+## Heroku Logs ##
 
-* логи api: Например, `heroku[api]: Deploy 4611dc4 by gcor.media@gmail.com`, `heroku[api]: Release v21 created by gcor.media@gmail.com`
+* `at=info` — type of the message
+* `method=GET` — HTTP method
+* `path="/"` — HTTP path
+* `host=secret-coast-74205.herokuapp.com/` — HTTP Host
+* `request_id=c9bf744b-48a2-4ed0-9bbf-56d846887765` — Request id
+* `fwd="188.123.231.83"` — X-Forwarded-For Header
+* `dyno=web.1` — имя контейнера, который обслуживает запрос
+* `connect=1ms` — connection time
+* `service=3ms` — time to transfer data
+* `status=200` — http request status
+* `bytes=653` — number of transmitted bytes
+* app logs: `render: 2.899ms`
 
 ![logs](https://psv4.vk.me/c812238/u100755398/docs/af0342829d25/Snimok_ekrana_177.png?extra=i7hXYP54NZycSnM3YcYhs7vCBE9OMkedKH0C9Pa-HWt9mWebKppy5D-GTCwoE6sSEvXyIekvb0CWVye1ZqBrwh8XRvvxFQEw-1Q5DGElhRLXum3fFrqgCjaPhQ)
 
 ### UptimeRobot ###
-Сервис для мониторинга доступности ресурса по http(s), наличию ключевых слов, пингу и порту.
 
 ![uptime](https://psv4.vk.me/c812238/u100755398/docs/c0b5d3b08e56/Snimok_ekrana_178.png?extra=6Dco24DlFWUxJP914Ir9WwVHQRcXSuuFZ2kR--O_xpb91HD_DFcVfR7e8Fx0PfPZJYqX9bRw_bWk74ZPqjsLbfw4mF7ifcZu3llY7dr0ccjn1ejDKy7h4uu1bQ)
