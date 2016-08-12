@@ -23,7 +23,7 @@ Heroku может передавать логи:
 
 * логи api: Например, `heroku[api]: Deploy 4611dc4 by gcor.media@gmail.com`, `heroku[api]: Release v21 created by gcor.media@gmail.com`
 
-![logs](https://new.vk.com/doc100755398_437755003?hash=8ca06f8ac6998be8ab&dl=fcd4de35cc645b6a66)
+![logs](https://psv4.vk.me/c812238/u100755398/docs/af0342829d25/Snimok_ekrana_177.png?extra=i7hXYP54NZycSnM3YcYhs7vCBE9OMkedKH0C9Pa-HWt9mWebKppy5D-GTCwoE6sSEvXyIekvb0CWVye1ZqBrwh8XRvvxFQEw-1Q5DGElhRLXum3fFrqgCjaPhQ)
 
 ### UptimeRobot ###
 Сервис для мониторинга доступности ресурса по http(s), наличию ключевых слов, пингу и порту.
