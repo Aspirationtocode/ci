@@ -5,6 +5,8 @@
 
 Приложение доступно здесь: http://secret-coast-74205.herokuapp.com/
 
+## Travis Build ##
+
 ![Travis](https://psv4.vk.me/c810338/u100755398/docs/a4ea59578647/Snimok_ekrana_180.png?extra=3DL2Ma-n-35boKhrtC4Obyl-qiwA0bHSFzSOXefLKtyw99c7_kVGoEjzqp08qj5WywDhRwvqC8Y1JG875CO7pYe35vv1h1Up-ED2apVX5Ywzw8quaMdm4ayksw)
 
 ## Heroku Logs ##
